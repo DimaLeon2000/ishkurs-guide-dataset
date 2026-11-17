@@ -1,101 +1,101 @@
-genre;artist;track
-acidhouse;Phuture;Acid Trax
-anthemhouse;Faithless;Insomnia
-bootyhouse;DJ Isaac;Face Down Ass Up
-classichouse;Larry Heard aka Mr. Fingers;Can You Feel It
-clubhouse;Emjay;Take Me In Your Arms
-darkhouse;Pete Lazonby;Wavespeech
-deephouse;2nd Shift;Somethin' Else
-discohouse;Junior Jack;My Feeling
-disco;The Tramps;Disco Inferno
-epichouse;DJ Rap;Good To Be Alive
-frenchhouse;Stardust;Music Sounds Better With You
-funkyhouse;DJ Sandy vs. Housetrap;Disco Highway
-garage;Kristine Blond;Love Shy
-ghettohouse;Detroit Grand Puhbas;Sandwiches
-hardhouse;DJ Trajic;The Dope Track
-hiphouse;Richie Rich;Turn It Up
-progressivehouse;Leftfield;Open Up
-speedgarage;187 Lockdown;Kung Fu
-stupidhouse;Lisa Lashes;Looking Good
-techhouse;Terry Francis;Metro Circuit
-tribalhouse;Dubtribe Soundsystem;Hasta Luego Mi Hermano
-vocalhouse;Black Box;Ride on Time
-acidtrance;Union Jack;Red Herring
-ambienttrance;Crystalsphere;Future Vision
-anthemtrance;X-Cabs;Neuro
-bootytrance;Lectrolux;The House is Surrounded
-breaktrance;Beatstalker;Deep Cover
-darktrance;Anne Clark;Our Darkness
-deathtrance;Synergy;World of Bassline
-dreamtrance;Robert Miles;Children
-epictrance;Paul Van Dyk;For An Angel
-goatrance;Crop Circles; Full Mental Jackpot
-hardacidtrance;DJ Misjah & DJ Tim;Access
-hardtrance;De Niro;Mind of Man
-hinrg;TH Express;I'm On Your Side
-ibizatrance;Chicane;Offshore
-nunrg;Steve Thomas;The Leader
-progressivetrance;Binary Finary;1998
-symphonictrance;George S. Clinton;X-squad
-techtrance;Breeder;The Chain
-tribaltrance;The Grid;Figure of 8
-atmosphericjungle;LTJ Bukem;Horizons
-darkcore;Q Project;Champion Sound
-darkstep;Dillinja;Silver Blade
-drumnbass;Grooverider;On The Double
-experimentaljungle;Squarepusher;Problem Child
-futurestep;Stakka & Skynet;Violent Extreme
-hardstep;EZ Rollers;Meatball
-idm;Autechre;Acroyear 2
-jazzstep;Solid State;Just a Vision
-jumpup;Aphrodite;The Bomber Style
-jungle-1;Omni Trio;Soul Promenade
-oldskoolravehardcore;DJ Red Alert & Mike Slammer;Just Wanna Hold You Tight
-raggajungle;Barrington Levy & Beenie Man;Under Mi Sensi
-techstep;Johnny L;Piper
-2stepgarage;Chris Mac;Dub Plate Style
-acidbreaks;DJ Liquid;Electro Acid Funk
-acidjazz;Any Caldwell Vs. Darkhorse Day;Sandworms
-anthembreaks;Psykosonik;Panik Kontrol
-bigbeat;Chemical Brothers;Block Rockin' Beats
-chemicalbreaks;Uberzone;Botz
-darkbreaks;The Bleachers;Zemoto
-electro;Afrika Bambaataa;Planet Rock
-funkybreaks;Bassbin Twins;Trouble Down
-ghettotech;DJ Assault;Ass n Titties
-hiphop;2pac;Changes
-miamibass;69 Boyz/Quad City DJs;Hoop N Yo Face
-nuelectro;I-F;Space Invaders Are Smoking Grass
-nuskoolbreaks;ILS;Tectonics
-progressivebreaks;Cirrus;Back On A Mission
-progressivehop;Propellorheads/Jungle Bros.;Take California
-tribalbreaks;Skye;Skye Files Vol. 1
-triphop;Massive Attack w/ Elizabeth Fraser;Teardrop
-turntablism;The Adventures of Rock Raida;One Too Many
-acidtechno;Woody McBride;Basketball Heroes
-ambient;A Positive Life;Aquasonic
-bangintechno;Jeff Mills;The Bells
-classictechno;Cybotron;Clear
-darkambient;DJ Spooky;Valley of Shadows
-deeptechno;Monolake;Index
-detroittechno;Robert Hood;Pole Position
-dubtechno;Maurizio and Juan Atkins;E1 7
-experimentaltechno;Boards of Canada;Telephasic Workshop
-hardacidtechno;Chris Liberator;Soul Mantra
-minimaltechno;DJ T-1000;Thesis
-swedishtechno;Adam Beyer;Safety Session
-tribaltechno;Damon Wild;Zoom
-digitalhardcore;Atari Teenage Riot;Start The Riot
-freeform;DJ Energy;Waves of Desire
-gabberhouse;Master Of Rave;Gabber Until The End
-gabber;Omar Santana;Bonebastic
-happygabber;Cixx;To The Bass
-happyhardcore;Jimmy J/Justin Time/Jenka;Eternity
-metalcore;Fear Factory;T-1000
-noize;Venetian Snares;Personal Discourse
-rotterdam;Masochist;Killing Scum
-speedbass;Brasszilla;Tokyo
-speedcore;Disciplines of Annihilation;I'll Give You Hard
-terrorcore;Delta 9;Welcome To Hell
-trancecore;Rex Anthony;Thunderdome
+﻿genre,artist,track
+acidhouse,Phuture,Acid Trax
+anthemhouse,Faithless,Insomnia
+bootyhouse,DJ Isaac,Face Down Ass Up
+classichouse,Larry Heard aka Mr. Fingers,Can You Feel It
+clubhouse,Emjay,Take Me In Your Arms
+darkhouse,Pete Lazonby,Wavespeech
+deephouse,2nd Shift,Somethin' Else
+discohouse,Junior Jack,My Feeling
+disco,The Tramps,Disco Inferno
+epichouse,DJ Rap,Good To Be Alive
+frenchhouse,Stardust,Music Sounds Better With You
+funkyhouse,DJ Sandy vs. Housetrap,Disco Highway
+garage,Kristine Blond,Love Shy
+ghettohouse,Detroit Grand Puhbas,Sandwiches
+hardhouse,DJ Trajic,The Dope Track
+hiphouse,Richie Rich,Turn It Up
+progressivehouse,Leftfield,Open Up
+speedgarage,187 Lockdown,Kung Fu
+stupidhouse,Lisa Lashes,Looking Good
+techhouse,Terry Francis,Metro Circuit
+tribalhouse,Dubtribe Soundsystem,Hasta Luego Mi Hermano
+vocalhouse,Black Box,Ride on Time
+acidtrance,Union Jack,Red Herring
+ambienttrance,Crystalsphere,Future Vision
+anthemtrance,X-Cabs,Neuro
+bootytrance,Lectrolux,The House is Surrounded
+breaktrance,Beatstalker,Deep Cover
+darktrance,Anne Clark,Our Darkness
+deathtrance,Synergy,World of Bassline
+dreamtrance,Robert Miles,Children
+epictrance,Paul Van Dyk,For An Angel
+goatrance,Crop Circles, Full Mental Jackpot
+hardacidtrance,DJ Misjah & DJ Tim,Access
+hardtrance,De Niro,Mind of Man
+hinrg,TH Express,I'm On Your Side
+ibizatrance,Chicane,Offshore
+nunrg,Steve Thomas,The Leader
+progressivetrance,Binary Finary,1998
+symphonictrance,George S. Clinton,X-squad
+techtrance,Breeder,The Chain
+tribaltrance,The Grid,Figure of 8
+atmosphericjungle,LTJ Bukem,Horizons
+darkcore,Q Project,Champion Sound
+darkstep,Dillinja,Silver Blade
+drumnbass,Grooverider,On The Double
+experimentaljungle,Squarepusher,Problem Child
+futurestep,Stakka & Skynet,Violent Extreme
+hardstep,EZ Rollers,Meatball
+idm,Autechre,Acroyear 2
+jazzstep,Solid State,Just a Vision
+jumpup,Aphrodite,The Bomber Style
+jungle-1,Omni Trio,Soul Promenade
+oldskoolravehardcore,DJ Red Alert & Mike Slammer,Just Wanna Hold You Tight
+raggajungle,Barrington Levy & Beenie Man,Under Mi Sensi
+techstep,Johnny L,Piper
+2stepgarage,Chris Mac,Dub Plate Style
+acidbreaks,DJ Liquid,Electro Acid Funk
+acidjazz,Any Caldwell Vs. Darkhorse Day,Sandworms
+anthembreaks,Psykosonik,Panik Kontrol
+bigbeat,Chemical Brothers,Block Rockin' Beats
+chemicalbreaks,Uberzone,Botz
+darkbreaks,The Bleachers,Zemoto
+electro,Afrika Bambaataa,Planet Rock
+funkybreaks,Bassbin Twins,Trouble Down
+ghettotech,DJ Assault,Ass n Titties
+hiphop,2pac,Changes
+miamibass,69 Boyz/Quad City DJs,Hoop N Yo Face
+nuelectro,I-F,Space Invaders Are Smoking Grass
+nuskoolbreaks,ILS,Tectonics
+progressivebreaks,Cirrus,Back On A Mission
+progressivehop,Propellorheads/Jungle Bros.,Take California
+tribalbreaks,Skye,Skye Files Vol. 1
+triphop,Massive Attack w/ Elizabeth Fraser,Teardrop
+turntablism,The Adventures of Rock Raida,One Too Many
+acidtechno,Woody McBride,Basketball Heroes
+ambient,A Positive Life,Aquasonic
+bangintechno,Jeff Mills,The Bells
+classictechno,Cybotron,Clear
+darkambient,DJ Spooky,Valley of Shadows
+deeptechno,Monolake,Index
+detroittechno,Robert Hood,Pole Position
+dubtechno,Maurizio and Juan Atkins,E1 7
+experimentaltechno,Boards of Canada,Telephasic Workshop
+hardacidtechno,Chris Liberator,Soul Mantra
+minimaltechno,DJ T-1000,Thesis
+swedishtechno,Adam Beyer,Safety Session
+tribaltechno,Damon Wild,Zoom
+digitalhardcore,Atari Teenage Riot,Start The Riot
+freeform,DJ Energy,Waves of Desire
+gabberhouse,Master Of Rave,Gabber Until The End
+gabber,Omar Santana,Bonebastic
+happygabber,Cixx,To The Bass
+happyhardcore,Jimmy J/Justin Time/Jenka,Eternity
+metalcore,Fear Factory,T-1000
+noize,Venetian Snares,Personal Discourse
+rotterdam,Masochist,Killing Scum
+speedbass,Brasszilla,Tokyo
+speedcore,Disciplines of Annihilation,I'll Give You Hard
+terrorcore,Delta 9,Welcome To Hell
+trancecore,Rex Anthony,Thunderdome

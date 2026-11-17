@@ -1,101 +1,101 @@
-genre;artist;track
-acidhouse;Phuture;Acid Tracks
-anthemhouse;Faithless;Insomnia (Monster Mix)
-bootyhouse;DJ Isaac;Face Down, Ass Up
-classichouse;Larry Heard aka Mr. Fingers;Can You Feel It
-clubhouse;Emjay;In Your Arms
-darkhouse;Pete Lazonby;Wavespeech (Junior Vasquez Extended Remix)
-deephouse;2nd Shift ft. DJ Heather;Somethin' Else
-discohouse;Junior Jack;My Feeling
-disco;The Trammps;Disco Inferno
-epichouse;DJ Rap;Good To Be Alive (Johnny Vicious Epic Vocal Mix)
-frenchhouse;Stardust (Thomas Bangalter, Alan Braxe & Benjamin Diamond);Music Sounds Better With You
-funkyhouse;DJ Sandy vs. Housetrap;Disco Highway
-garage;Kristine Blond;Love Shy (Tuff Jam Classic Vocal)
-ghettohouse;Detroit Grand Pubahs;Sandwiches
-hardhouse;DJ Self & DJ Trajic;The Dope Track (DJ Self Mix)
-hiphouse;Richie Rich;Turn It Up
-progressivehouse;Leftfield ft. John Lydon;Open Up
-speedgarage;187 Lockdown;Kung-Fu
-stupidhouse;Lisa Lashes;Lookin' Good
-techhouse;Love Panda (Terry Francis);Metro Circuit
-tribalhouse;Dubtribe Sound System;Hasta Luego Mi Hermano
-vocalhouse;Black Box ft. Loleatta Holloway;Ride on Time
-acidtrance;Union Jack;Red Herring
-ambienttrance;Crystalsphere;Future Vision
-anthemtrance;X-Cabs (Chris Cowie);Neuro
-bootytrance;Lectrolux (John Truelove);The House is Surrounded (Jon the Dentist Mix)
-breaktrance;Deep Cover (Alex Watson & Ian Wilkie);Beatstalker (General Midi Mix)
-darktrance;Anne Clark;Our Darkness (Total Eclipse Remix)
-deathtrance;Synergy (Martin Nielsen, Edwin Velders & Lars W.A. Op 't Hof);World of Bassline
-dreamtrance;Robert Miles;Children� (Dream Version)
-epictrance;Paul Van Dyk;For An Angel (PvD E-Werk Club Mix)
-goatrance;Crop Circles; Full Mental Jackpot
-hardacidtrance;DJ Misjah & DJ Tim;Access
-hardtrance;De Niro (Chris Cowie);Mind of Man (De Niro Remix)
-hinrg;T.H. Express feat. Moe;(I'm) On Your Side
-ibizatrance;Chicane (Nick Bracegirdle);Offshore (Disco Citizens Remix)
-nunrg;Captain Tinrib (Jon Bell) & Steve Thomas;The Leader
-progressivetrance;Binary Finary;1998 (Paul Van Dyk Remix)
-symphonictrance;George S. Clinton ft. Buckethead;X-Squad
-techtrance;Breeder;The Chain
-tribaltrance;The Grid;Figure of Eight (Grid Tribal Trance Mix)
-atmosphericjungle;LTJ Bukem;Horizons
-darkcore;Q Project;Champion Sound (Total Science Hardcore Will Never Die Remix)
-darkstep;Dillinja;Silver Blade
-drumnbass;Grooverider & Optical;On the Double
-experimentaljungle;Squarepusher;Problem Child
-futurestep;Stakka & Skynet;Violent Extremes
-hardstep;EZ Rollers;Meatball
-idm;Autechre;Acroyear2
-jazzstep;Solid State ft. Zoe Hoare;Just a Vision (Marcus Intalex & ST Files Remix)
-jumpup;Aphrodite (Gavin King);Bomber Style
-jungle-1;Omni Trio;Soul Promenade (Nookie Remix)
-oldskoolravehardcore;DJ Red Alert & Mike Slammer;Just Wanna Hold U Tight
-raggajungle;Barrington Levy & Beenie Man;Under Mi Sensi (X Project Remix)
-techstep;Jonny L;Piper (Grooverider Mix)
-2stepgarage;Chris Mack ft. MC Nuts;Baby Gonna Rock Dis (Dub Plate Style Remix)
-acidbreaks;DJ HipE & Red Void;Bounce Y'all
-acidjazz;Andy Caldwell Vs. Darkhorse;Sandworms
-anthembreaks;Psykosonik;Panik Kontrol
-bigbeat;The Chemical Brothers;Block Rockin' Beats
-chemicalbreaks;?berzone;Botz (Organik Mix)
-darkbreaks;Psynostics;Check the Track (Hard Hop Heathen Mix)
-electro;Afrika Bambaataa & the Soulsonic Force;Planet Rock
-funkybreaks;Anoesis;Trouble Down (Bassbin Twins Remix)
-ghettotech;DJ Assault;Ass-N-Titties
-hiphop;2Pac;Changes
-miamibass;69 Boyz ft. Quad City DJ's;Hoop In Yo Face
-nuelectro;I-F;Space Invaders Are Smoking Grass
-nuskoolbreaks;Ils;Tectonic
-progressivebreaks;Cirrus;Back on a Mission
-progressivehop;Propellerheads ft. Jungle Bros.;Take California and Party
-tribalbreaks;Skye;Sky Files Vol. 1 (First Nature)
-triphop;Massive Attack w/ Elizabeth Fraser;Teardrop
-turntablism;Roc Raida;The Adventures of Rock Raida ...One Too Many!
-acidtechno;Woody McBride;The Birdman
-ambient;A Positive Life (Stefan Pierlejewski);Aquasonic
-bangintechno;Jeff Mills;The Bells
-classictechno;Cybotron;Clear
-darkambient;DJ Spooky That Subliminal Kid;In the Valley of Shadows�
-deeptechno;Helical Scan (Robert Henke);Index II
-detroittechno;Robert Hood;Pole Position
-dubtechno;Maurizio;M07b
-experimentaltechno;Boards of Canada;Telephasic Workshop
-hardacidtechno;Chris Liberator;Soul Mantra
-minimaltechno;DJ T-1000 (Alan Oldham);Thesis
-swedishtechno;Joel Mull & Adam Beyer;Safety Session (B1)
-tribaltechno;Damon Wild;Zoom (Oliver Ho Remix)
-digitalhardcore;Atari Teenage Riot;Start the Riot
-freeform;Kevin Energy;Waves of Desire
-gabberhouse;Master of Rave;Gabber Until the End
-gabber;Omar Santana;Bone Bastik
-happygabber;Cixx ft. MC Syco;To Da Bass
-happyhardcore;Jimmy J & Justin Time ft. Jenka;Eternity
-metalcore;Fear Factory & DJ Dano;T-1000 (H-K)
-noize;Venetian Snares;Personal Discourse
-rotterdam;The Masochist (Dov Elkabas);Killing Scum
-speedbass;Brasszilla;Tokyo
-speedcore;Disciples of Annihilation;I'll Give You Hard
-terrorcore;Delta 9 (Dave Rodgers);Real Hardcore
-trancecore;Rexanthony;Thunderdrome
+﻿genre,artist,track
+acidhouse,Phuture,Acid Tracks
+anthemhouse,Faithless,Insomnia (Monster Mix)
+bootyhouse,DJ Isaac,"Face Down, Ass Up"
+classichouse,Larry Heard aka Mr. Fingers,Can You Feel It
+clubhouse,Emjay,In Your Arms
+darkhouse,Pete Lazonby,Wavespeech (Junior Vasquez Extended Remix)
+deephouse,2nd Shift ft. DJ Heather,Somethin' Else
+discohouse,Junior Jack,My Feeling
+disco,The Trammps,Disco Inferno
+epichouse,DJ Rap,Good To Be Alive (Johnny Vicious Epic Vocal Mix)
+frenchhouse,"Stardust (Thomas Bangalter, Alan Braxe & Benjamin Diamond)",Music Sounds Better With You
+funkyhouse,DJ Sandy vs. Housetrap,Disco Highway
+garage,Kristine Blond,Love Shy (Tuff Jam Classic Vocal)
+ghettohouse,Detroit Grand Pubahs,Sandwiches
+hardhouse,DJ Self & DJ Trajic,The Dope Track (DJ Self Mix)
+hiphouse,Richie Rich,Turn It Up
+progressivehouse,Leftfield ft. John Lydon,Open Up
+speedgarage,187 Lockdown,Kung-Fu
+stupidhouse,Lisa Lashes,Lookin' Good
+techhouse,Love Panda (Terry Francis),Metro Circuit
+tribalhouse,Dubtribe Sound System,Hasta Luego Mi Hermano
+vocalhouse,Black Box ft. Loleatta Holloway,Ride on Time
+acidtrance,Union Jack,Red Herring
+ambienttrance,Crystalsphere,Future Vision
+anthemtrance,X-Cabs (Chris Cowie),Neuro
+bootytrance,Lectrolux (John Truelove),The House is Surrounded (Jon the Dentist Mix)
+breaktrance,Deep Cover (Alex Watson & Ian Wilkie),Beatstalker (General Midi Mix)
+darktrance,Anne Clark,Our Darkness (Total Eclipse Remix)
+deathtrance,"Synergy (Martin Nielsen, Edwin Velders & Lars W.A. Op 't Hof)",World of Bassline
+dreamtrance,Robert Miles,Children… (Dream Version)
+epictrance,Paul Van Dyk,For An Angel (PvD E-Werk Club Mix)
+goatrance,Crop Circles, Full Mental Jackpot
+hardacidtrance,DJ Misjah & DJ Tim,Access
+hardtrance,De Niro (Chris Cowie),Mind of Man (De Niro Remix)
+hinrg,T.H. Express feat. Moe,(I'm) On Your Side
+ibizatrance,Chicane (Nick Bracegirdle),Offshore (Disco Citizens Remix)
+nunrg,Captain Tinrib (Jon Bell) & Steve Thomas,The Leader
+progressivetrance,Binary Finary,1998 (Paul Van Dyk Remix)
+symphonictrance,George S. Clinton ft. Buckethead,X-Squad
+techtrance,Breeder,The Chain
+tribaltrance,The Grid,Figure of Eight (Grid Tribal Trance Mix)
+atmosphericjungle,LTJ Bukem,Horizons
+darkcore,Q Project,Champion Sound (Total Science Hardcore Will Never Die Remix)
+darkstep,Dillinja,Silver Blade
+drumnbass,Grooverider & Optical,On the Double
+experimentaljungle,Squarepusher,Problem Child
+futurestep,Stakka & Skynet,Violent Extremes
+hardstep,EZ Rollers,Meatball
+idm,Autechre,Acroyear2
+jazzstep,Solid State ft. Zoe Hoare,Just a Vision (Marcus Intalex & ST Files Remix)
+jumpup,Aphrodite (Gavin King),Bomber Style
+jungle-1,Omni Trio,Soul Promenade (Nookie Remix)
+oldskoolravehardcore,DJ Red Alert & Mike Slammer,Just Wanna Hold U Tight
+raggajungle,Barrington Levy & Beenie Man,Under Mi Sensi (X Project Remix)
+techstep,Jonny L,Piper (Grooverider Mix)
+2stepgarage,Chris Mack ft. MC Nuts,Baby Gonna Rock Dis (Dub Plate Style Remix)
+acidbreaks,DJ HipE & Red Void,Bounce Y'all
+acidjazz,Andy Caldwell Vs. Darkhorse,Sandworms
+anthembreaks,Psykosonik,Panik Kontrol
+bigbeat,The Chemical Brothers,Block Rockin' Beats
+chemicalbreaks,Überzone,Botz (Organik Mix)
+darkbreaks,Psynostics,Check the Track (Hard Hop Heathen Mix)
+electro,Afrika Bambaataa & the Soulsonic Force,Planet Rock
+funkybreaks,Anoesis,Trouble Down (Bassbin Twins Remix)
+ghettotech,DJ Assault,Ass-N-Titties
+hiphop,2Pac,Changes
+miamibass,69 Boyz ft. Quad City DJ's,Hoop In Yo Face
+nuelectro,I-F,Space Invaders Are Smoking Grass
+nuskoolbreaks,Ils,Tectonic
+progressivebreaks,Cirrus,Back on a Mission
+progressivehop,Propellerheads ft. Jungle Bros.,Take California and Party
+tribalbreaks,Skye,Sky Files Vol. 1 (First Nature)
+triphop,Massive Attack w/ Elizabeth Fraser,Teardrop
+turntablism,Roc Raida,The Adventures of Rock Raida ...One Too Many!
+acidtechno,Woody McBride,The Birdman
+ambient,A Positive Life (Stefan Pierlejewski),Aquasonic
+bangintechno,Jeff Mills,The Bells
+classictechno,Cybotron,Clear
+darkambient,DJ Spooky That Subliminal Kid,In the Valley of Shadows…
+deeptechno,Helical Scan (Robert Henke),Index II
+detroittechno,Robert Hood,Pole Position
+dubtechno,Maurizio,M07b
+experimentaltechno,Boards of Canada,Telephasic Workshop
+hardacidtechno,Chris Liberator,Soul Mantra
+minimaltechno,DJ T-1000 (Alan Oldham),Thesis
+swedishtechno,Joel Mull & Adam Beyer,Safety Session (B1)
+tribaltechno,Damon Wild,Zoom (Oliver Ho Remix)
+digitalhardcore,Atari Teenage Riot,Start the Riot
+freeform,Kevin Energy,Waves of Desire
+gabberhouse,Master of Rave,Gabber Until the End
+gabber,Omar Santana,Bone Bastik
+happygabber,Cixx ft. MC Syco,To Da Bass
+happyhardcore,Jimmy J & Justin Time ft. Jenka,Eternity
+metalcore,Fear Factory & DJ Dano,T-1000 (H-K)
+noize,Venetian Snares,Personal Discourse
+rotterdam,The Masochist (Dov Elkabas),Killing Scum
+speedbass,Brasszilla,Tokyo
+speedcore,Disciples of Annihilation,I'll Give You Hard
+terrorcore,Delta 9 (Dave Rodgers),Real Hardcore
+trancecore,Rexanthony,Thunderdrome
